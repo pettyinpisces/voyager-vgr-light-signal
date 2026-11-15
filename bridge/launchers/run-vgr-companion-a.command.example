@@ -1,0 +1,7 @@
+#!/bin/sh
+set -eu
+
+cd "/absolute/path/to/voyager-vgr-light-signal/bridge"
+export VGR_ACTOR="companion-a"
+exec "/absolute/path/to/voyager-vgr-light-signal/bridge/.venv/bin/python" vgr_bridge_mcp.py
+
