@@ -1,0 +1,20 @@
+# Live configuration and runtime state
+bridge/config.json
+bridge/runtime/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editors and operating systems
+.DS_Store
+.idea/
+.vscode/
+
+# Local recordings and logs
+*.log
+*.mov
+*.mp4
+

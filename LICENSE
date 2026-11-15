@@ -1,0 +1,9 @@
+This repository uses two licenses:
+
+1. Source code in `bridge/` is licensed under the MIT License in
+   `LICENSE-CODE`.
+2. Original written guides and repository prose are licensed under Creative
+   Commons Attribution 4.0 International as described in `LICENSE-DOCS`.
+
+Third-party trademarks, product names, linked source material, and material
+separately identified as belonging to another rights holder are not relicensed.

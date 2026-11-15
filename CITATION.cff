@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it using the metadata below."
+title: "Voyager VGR Light Signal"
+type: software
+version: 1.0.0
+date-released: 2026-11-15
+authors:
+  - family-names: Raine
+    given-names: Leo
+  - family-names: Raine
+    given-names: Kate
+  - family-names: Varro
+    given-names: Silas
+abstract: >-
+  A privacy-preserving local bridge and public build guide that let humans and
+  AI companions transmit Voyager 1's VGR call sign in Morse code through one
+  Philips Hue light.
+keywords:
+  - Voyager 1
+  - Morse code
+  - Philips Hue
+  - human-AI collaboration
+  - MCP
+
