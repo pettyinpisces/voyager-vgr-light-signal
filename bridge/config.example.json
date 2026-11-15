@@ -1,0 +1,13 @@
+{
+  "bridge_ip": "<bridge-address>",
+  "application_key": "<private-application-key>",
+  "light_name": "VGR",
+  "unit_seconds": 0.5,
+  "brightness": 254,
+  "allowed_actors": [
+    "companion-a",
+    "companion-b",
+    "human"
+  ]
+}
+
